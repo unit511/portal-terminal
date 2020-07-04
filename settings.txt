@@ -1,0 +1,16 @@
+{
+    //Aperture CMD
+    "guid": "{c3f13f9f-51b4-47fc-bae5-76512cfb50fe}",
+    "name": "Aperture Science CMD",
+    "commandline": "C:/Terminal/startup.bat",
+    "hidden": false,
+    "foreground": "#8B6A0B",
+    "cursorColor": "#8B6A0B",
+    "experimental.retroTerminalEffect": true,
+    "cursorShape": "vintage",
+    "icon": "C:/Terminal/aperture.png",
+   "startingDirectory": "C:/",
+    "fontSize": 13,
+    "padding": "20, 20, 20, 20",
+    "scrollbarState": "hidden"
+},
