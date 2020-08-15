@@ -3,7 +3,7 @@
 To set the profile you need to paste the contents of settings.txt into the Windows Terminal settings file (can be accessed by clicking on settings in the dropdown menu) between 2 already existing profiles.
 After saving the edits you made to the settings.json, in the dropdown menu you will see an "Aperture Science CMD" option, by selecting it you can load the newly created profile.
 
-If you do not want tu run a script at startup you can modify the following line in the settings
+If you do not want to run a script at startup you can modify the following line in the settings
 
 "commandline": "C:/Terminal/startup.bat",
 
